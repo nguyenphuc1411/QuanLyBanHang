@@ -1,0 +1,11 @@
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Release\BUS.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Release\BUS.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Release\DAL.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Release\DTO.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Release\DAL.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Release\DTO.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Release\BUS.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Release\BUS.pdb

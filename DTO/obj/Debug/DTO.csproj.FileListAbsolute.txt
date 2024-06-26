@@ -1,0 +1,12 @@
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\bin\Debug\DTO.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\bin\Debug\DTO.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\obj\Debug\DTO.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\obj\Debug\DTO.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DTO\bin\Debug\DTO.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DTO\bin\Debug\DTO.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DTO\obj\Debug\DTO.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DTO\obj\Debug\DTO.pdb

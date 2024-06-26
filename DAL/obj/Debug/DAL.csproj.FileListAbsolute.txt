@@ -1,0 +1,34 @@
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\DTO.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\System.Security.AccessControl.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\System.Security.Permissions.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\DTO.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\System.Security.AccessControl.xml
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\System.Security.Permissions.xml
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Debug\DAL.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\DAL.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\DAL.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\DTO.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\System.Security.AccessControl.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\System.Security.Permissions.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\DTO.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\System.Security.AccessControl.xml
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\System.Security.Permissions.xml
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\obj\Debug\DAL.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\obj\Debug\DAL.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\DAL\obj\Debug\DAL.csproj.Up2Date

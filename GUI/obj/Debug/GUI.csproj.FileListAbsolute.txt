@@ -1,0 +1,44 @@
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\bin\Debug\GUI.exe.config
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\bin\Debug\GUI.exe
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\bin\Debug\GUI.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\bin\Debug\BUS.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\bin\Debug\DTO.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\bin\Debug\DAL.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\bin\Debug\BUS.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\bin\Debug\DTO.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\bin\Debug\DAL.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmLogin.resources
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmHang.resources
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmKhachHang.resources
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmMain.resources
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmNhanVien.resources
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmResetPassword.resources
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.exe
+D:\HocTap\DuAnMau\QuanLyBanHang\GUI\obj\Debug\GUI.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\bin\Debug\GUI.exe.config
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\bin\Debug\GUI.exe
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\bin\Debug\GUI.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\bin\Debug\BUS.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\bin\Debug\DTO.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\bin\Debug\DAL.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\bin\Debug\BUS.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\bin\Debug\DTO.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\bin\Debug\DAL.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmLogin.resources
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmHang.resources
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmKhachHang.resources
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmMain.resources
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmNhanVien.resources
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.UI.FrmResetPassword.resources
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.exe
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\GUI\obj\Debug\GUI.csproj.Up2Date

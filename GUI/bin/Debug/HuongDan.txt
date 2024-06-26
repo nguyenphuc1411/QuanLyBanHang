@@ -1,0 +1,9 @@
+Phần mềm Quản Lý Bán Hàng
+ Quản lý sản phẩm: danh sách, thêm, xóa, sửa, tìm kiếm…
+ Quản lý nhân viên: danh sách, thêm, xóa, sửa, tìm kiếm, gởi mail, đổi mật khẩu, quên
+mật khẩu
+ Quản lý khách hàng: danh sách, thêm, xóa, sửa, tìm kiếm…
+ Thống kê số lượng sản phẩm được nhập theo mã nhân viên
+ Thống kê số lượng sản phẩm tồn kho
+ Tất cả mọi thành viên phải đăng nhập mới được sử dụng phần mềm
+ Nhân viên không được phép thêm mới hoặc xóa nhân viên khác, không được tạo và xem thống kê

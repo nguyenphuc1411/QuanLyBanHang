@@ -1,0 +1,17 @@
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\DAL.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\DAL.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\DTO.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\System.Configuration.ConfigurationManager.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\System.Security.AccessControl.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\System.Security.Permissions.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\System.Security.Principal.Windows.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\DTO.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\System.Configuration.ConfigurationManager.xml
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\System.Security.AccessControl.xml
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\System.Security.Permissions.xml
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\bin\Release\System.Security.Principal.Windows.xml
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Release\DAL.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DAL\obj\Release\DAL.pdb

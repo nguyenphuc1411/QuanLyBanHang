@@ -1,0 +1,6 @@
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\bin\Release\DTO.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\bin\Release\DTO.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\obj\Release\DTO.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\obj\Release\DTO.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\DTO\obj\Release\DTO.pdb

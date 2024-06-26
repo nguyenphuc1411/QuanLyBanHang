@@ -1,0 +1,22 @@
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+D:\HocTap\DuAnMau\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\bin\Debug\BUS.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\bin\Debug\BUS.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\bin\Debug\DAL.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\bin\Debug\DTO.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\bin\Debug\DAL.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\bin\Debug\DTO.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\obj\Debug\BUS.dll
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\obj\Debug\BUS.pdb
+D:\HocTap\DuAnMau\PS35206_Nguyễn Thanh Phúc_Assignment\QuanLyBanHang\BUS\obj\Debug\BUS.csproj.Up2Date
